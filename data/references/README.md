@@ -1,6 +1,6 @@
 Downloaded SILVA 138 SEED file from:
 
-`https://mothur.s3.us-east-2.amazonaws.com/wiki/silva.seed_v138.tgz`
+`https://mothur.s3.us-east-2.amazonaws.com/wiki/silva.seed_v138.tgz` 
 
 Used wget, mkdir and tar to extract the files to a
 folder named `data/references/silva_seed/`
