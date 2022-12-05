@@ -1,4 +1,4 @@
-# This is a code club project on a topic in bioinformatics.
+### This is a code club project on a topic in bioinformatics.
 
 **Author** RDN (aka actually Pat Schloss)
 
